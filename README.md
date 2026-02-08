@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Serhii
 
-<!--
-**awrshift/awrshift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Odesa → Cyprus · Non-developer exploring AI agent territory
 
-Here are some ideas to get you started:
+I don't write code. I explore with AI agents and see what's possible. The ideas find me on the way — most of what I've built, I couldn't have imagined before starting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Business background. Zero CS degree. Terminal was scary once. Now it's home.
+
+> The framework wasn't planned. It grew from real exploration sessions.
+> A map drawn while walking.
+
+## Current Explorations
+
+- 🔍 **Glyte** — open-source analytics that explains itself *(coming soon)*
+- ✏️ **Avoid Content** — AI content platform that tracks how visible your brand is in ChatGPT, Google AI, Perplexity, Claude, and Gemini — then creates content that makes AI cite you. From "nobody sees us" to published, fact-checked articles in one workflow. I explored and validated the entire product with AI agents, then handed it to the dev team to build
+- 🧭 **AI Problem-Solving Framework** — [how I think with AI](https://gist.github.com/awrshift), packaged as a file you can give to any assistant
+- 📖 **The Book** — field notes from a non-developer building real things with AI agents
+
+## How I Work
+
+I explore → validate ideas → build working prototypes → document everything → hand off to developers.
+
+Claude Code is my exploration partner. The developers get validated ideas with working code and full documentation. No guessing, no wasted sprints.
+
+## What I Care About
+
+- **AI as a partner, not a tool** — the difference between asking and exploring together
+- **Frameworks over prompts** — systems that make AI think before acting
+- **Bridge for non-developers** — if I can build production systems, so can you
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-awshift-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/awshift/)
+
+---
+
+*Not a developer. I explore. The ideas find me on the way.*
