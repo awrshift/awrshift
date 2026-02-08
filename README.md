@@ -12,15 +12,15 @@ Business background. Zero CS degree. Terminal was scary once. Now it's home.
 ## Current Explorations
 
 - 🔍 **Glyte** — open-source analytics that explains itself *(coming soon)*
-- ✏️ **Avoid Content** — AI content platform that tracks how visible your brand is in ChatGPT, Google AI, Perplexity, Claude, and Gemini — then creates content that makes AI cite you. From "nobody sees us" to published, fact-checked articles in one workflow. I explored and validated the entire product with AI agents, then handed it to the dev team to build
+- ✏️ **Avoid Content** — AI content platform that tracks how visible your brand is in ChatGPT, Google AI, Perplexity, Claude, and Gemini — then creates content that makes AI cite you. From "nobody sees us" to published, fact-checked articles in one workflow. I explored and validated the entire product with Claude Code, then handed it to the dev team to build
 - 🧭 **AI Problem-Solving Framework** — [how I think with AI](https://gist.github.com/awrshift), packaged as a file you can give to any assistant
 - 📖 **The Book** — field notes from a non-developer building real things with AI agents
 
 ## How I Work
 
-I explore → validate ideas → build working prototypes → document everything → hand off to developers.
+One year of daily Claude Code sessions. From terminal-scared to building production systems — as a non-developer. The level of what's possible still blows my mind. I evolve with my projects, and this path is open to anyone willing to explore.
 
-Claude Code is my exploration partner. The developers get validated ideas with working code and full documentation. No guessing, no wasted sprints.
+I explore → validate ideas → build working prototypes → document everything → hand off to developers. The developers get validated ideas with working code and full documentation. No guessing, no wasted sprints.
 
 ## What I Care About
 
