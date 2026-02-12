@@ -13,7 +13,7 @@ Business background. Zero CS degree. Terminal was scary once. Now it's home.
 
 - 🔍 **Glyte** — open-source analytics that explains itself *(coming soon)*
 - ✏️ **Avoid Content** — AI content platform that tracks how visible your brand is in ChatGPT, Google AI, Perplexity, Claude, and Gemini — then creates content that makes AI cite you. From "nobody sees us" to published, fact-checked articles in one workflow. I explored and validated the entire product with Claude Code, then handed it to the dev team to build *(coming soon)*
-- 🧭 **AI Problem-Solving Framework** — [how I think with AI](https://github.com/awshifthq/awshift), packaged as a file you can give to any assistant
+- 🧭 **AI Problem-Solving Framework** — [how I think with AI](https://github.com/awrshift1/awrshift), packaged as a file you can give to any assistant
 - 📖 **The Book** — field notes from a non-developer building real things with AI agents *(coming soon)*
 
 ## How I Work
@@ -30,7 +30,7 @@ I explore → validate ideas → build working prototypes → document everythin
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-awshift-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/awshift/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-awrshift-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/awrshift/)
 
 ---
 
