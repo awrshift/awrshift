@@ -11,7 +11,7 @@ Business background. Zero CS degree. Terminal was scary once. Now it's home.
 
 ## Current Explorations
 
-- 🔍 **Glyte** — open-source analytics that explains itself *(coming soon)*
+- 🔍 **[Glyte](https://github.com/awrshift1/glyte)** — open-source analytics that explains itself. Upload CSV — get instant charts, AI chat, multi-table linking, and MCP server
 - ✏️ **Avoid Content** — AI content platform that tracks how visible your brand is in ChatGPT, Google AI, Perplexity, Claude, and Gemini — then creates content that makes AI cite you. From "nobody sees us" to published, fact-checked articles in one workflow. I explored and validated the entire product with Claude Code, then handed it to the dev team to build *(coming soon)*
 - 🧭 **AI Problem-Solving Framework** — [how I think with AI](https://github.com/awrshift1/awrshift), packaged as a file you can give to any assistant
 - 📖 **The Book** — field notes from a non-developer building real things with AI agents *(coming soon)*
