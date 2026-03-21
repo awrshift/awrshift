@@ -7,6 +7,9 @@ Odesa → Cyprus. Building AI tools and open-source infrastructure.
 - [ClawClaw Soul](https://github.com/awrshift/clawclaw-soul) — deterministic identity engine for AI agents.
   Generates SOUL.md files from orbital mechanics. `pip install clawclaw-soul`
 
+- [TutorMCP](https://github.com/awrshift/tutormcp) — MCP server that turns YouTube tutorials into searchable AI context.
+  Learn anything, then use it in Claude Code / Cursor. `pip install tutormcp`
+
 - [AWRSHIFT](https://github.com/awrshift/skill-awrshift) — adaptive decision-making framework for AI agents.
   Quick / Standard / Scientific modes. Research before building.
 
